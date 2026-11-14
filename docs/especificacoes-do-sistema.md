@@ -145,3 +145,7 @@ Cada categoria de prioridade do MoSCoW está definida, com sua respectiva justif
 - RNF15 foi interpretado pela forma como o registro de consulta como realizada foi descrito como feito pelo Veterinário nas regras de negócio.
 
 Demais foram explícitas pelo enunciado ou sugeridas pela I.A. com a intenção de melhorar a qualidade do projeto, conforme indicado.
+
+## Link para o repositório GitHub
+
+> https://github.com/GBelloS/InfnetBloco3-SistemaAgendamento
